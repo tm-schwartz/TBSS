@@ -8,4 +8,4 @@ pandas
 pynrrd
 pytest
 matplotlib
-git+https://github.com/pnlbwh/conversion.git
+git+https://github.com/tm-schwartz/conversion.git
