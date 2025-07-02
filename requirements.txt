@@ -1,7 +1,7 @@
 numpy
 nibabel
 nilearn
-dipy==0.16.0
+dipy
 psutil
 plumbum
 pandas
